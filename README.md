@@ -1,4 +1,4 @@
-# Horse-Memory-project-2025
+# Horse-Memory-Project-2025
 Horse Memory project: Science Project 2025
 
 
